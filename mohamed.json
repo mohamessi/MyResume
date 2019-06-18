@@ -1,0 +1,46 @@
+{
+  "user": {
+    "id":1,
+    "name":"diallo",
+    "firstname":"mohamed",
+    "adress":"phone",
+    "phone":"0669546876",
+    "mail":"",
+    "description":"",
+    "linkedin":"",
+    "github":"",
+    "img":""
+  },
+  "experiences": [
+    {
+      "job":"INGÉNIEUR LOGICIEL",
+      "company":"AXA FRANCE",
+      "details":"",
+      "start":"2018-11-05",
+      "end":"",
+      "tasks": [
+        {
+          "content":"maintenance evolutive sur API d'assurance automobile"
+        },
+        {
+          "content":"maintenance applicative sur API d'assurance automobile"
+        }
+      ]
+    },
+    {
+      "job":"STAGIAIRE INGÉNIEUR LOGICIEL",
+      "company":"SOPRA STERIA",
+      "details":"",
+      "start":"2018-3-12",
+      "end":"2018-9-7",
+      "tasks": [
+        {
+          "content":"maintenance evolutive sur le permis de conduire"
+        },
+        {
+          "content":"maintenance evolutive sur le permis de conduire"
+        }
+      ]
+    }
+    ]
+}
